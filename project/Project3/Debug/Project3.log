@@ -1,0 +1,20 @@
+﻿  Source.cpp
+e:\my_collegue\projects\project3\project3\source.cpp(29): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+e:\my_collegue\projects\project3\project3\source.cpp(29): warning C4309: 'argument': truncation of constant value
+e:\my_collegue\projects\project3\project3\source.cpp(181): warning C4018: '<': signed/unsigned mismatch
+e:\my_collegue\projects\project3\project3\source.cpp(182): warning C4018: '<': signed/unsigned mismatch
+e:\my_collegue\projects\project3\project3\source.cpp(199): warning C4018: '<': signed/unsigned mismatch
+e:\my_collegue\projects\project3\project3\source.cpp(205): warning C4018: '<': signed/unsigned mismatch
+e:\my_collegue\projects\project3\project3\source.cpp(206): warning C4018: '<': signed/unsigned mismatch
+e:\my_collegue\projects\project3\project3\source.cpp(223): warning C4018: '<': signed/unsigned mismatch
+e:\my_collegue\projects\project3\project3\source.cpp(229): warning C4018: '<': signed/unsigned mismatch
+e:\my_collegue\projects\project3\project3\source.cpp(230): warning C4018: '<': signed/unsigned mismatch
+e:\my_collegue\projects\project3\project3\source.cpp(247): warning C4018: '<': signed/unsigned mismatch
+e:\my_collegue\projects\project3\project3\source.cpp(253): warning C4018: '<': signed/unsigned mismatch
+e:\my_collegue\projects\project3\project3\source.cpp(254): warning C4018: '<': signed/unsigned mismatch
+e:\my_collegue\projects\project3\project3\source.cpp(271): warning C4018: '<': signed/unsigned mismatch
+  Project3.vcxproj -> E:\My_Collegue\projects\Project3\Debug\Project3.exe
